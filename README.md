@@ -2,7 +2,9 @@
 
 **Frogger** is a ✨ Mod developer ✨.
 
-- 🔭 Currently working on DungeonClases 
+![](https://komarev.com/ghpvc/?username=FroggerHH)
+
+- 🔭 Currently working on TribeClases 
 - 🌱 Currently learning programming
 - 💬 Ask me about anything 
 - 📫 My Discord```Just a Frogger#9392```
