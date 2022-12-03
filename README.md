@@ -8,7 +8,7 @@
 - 🌱 Currently learning programming
 - 💬 Ask me about anything 
 - 📫 My Discord```Just a Frogger#9392```
-- ⚡ Fun fact: /br>
+- ⚡ Fun fact: <br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
