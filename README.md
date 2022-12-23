@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Valheim Mod developer from Russia.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=froggerhh&label=Profile%20views&color=0e75b6&style=flat" alt="froggerhh" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=froggerhh&label=Profile%20views&color=0e75b6&style=flat" alt="froggerhh" /> </p><a href="https://discord.gg/K7PXvZ8rnN"><img align="right" alt="Discord" src="https://discordapp.com/api/guilds/981889916080381992/embed.png?style=banner4"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=froggerhh" alt="froggerhh" /></a> </p>
 
