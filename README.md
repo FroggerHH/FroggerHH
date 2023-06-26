@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me ```@Just a Frogger#9392```
+- 📫 How to reach me ```@justafrogger```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
