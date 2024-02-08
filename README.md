@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Valheim Mod developer from Russia.</h3>
 
 
-- 🔭 I’m currently working on [ThaumHeim](https://github.com/FroggerHH/ThaumHeim)
+- 🔭 I’m currently working on [TheElectrician](https://github.com/FroggerHH/TheElectrician)
 
 - 🌱 I’m currently learning **C#**
 
