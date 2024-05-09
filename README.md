@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Valheim Mod developer from Russia.</h3>
 
 
-- 🔭 I’m currently working on [TheElectrician](https://github.com/FroggerHH/TheElectrician)
+- 🔭 I’m currently working on [ValheimWebLink](https://github.com/FroggerHH/ValheimWebLink)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **anything**
 
