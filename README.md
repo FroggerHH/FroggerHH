@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Just A Frogger</h1>
-<h3 align="center">A passionate Valheim Mod developer from Russia.</h3>
+<h1 align="center">Hi 👋, I'm JustAFrogger</h1>
+<h3 align="center">A passionate dotnet developer from Russia.</h3>
 
 - 💬 Ask me about **anything**
 
